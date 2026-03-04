@@ -1,3 +1,7 @@
 #EXTM3U
 #EXTINF:-1,Test Kanal
 https://test-streams.mux.dev/x36xhzz/x36xhzz.m3u8
+#EXTINF:-1,Test Kanal 2
+https://test-streams.mux.dev/test_001/stream.m3u8
+#EXTINF:-1,Test Kanal 3
+https://test-streams.mux.dev/dai-discontinuity-deltatre/manifest.m3u8
